@@ -1,1 +1,1 @@
-использовал библиотеку Spatie, чтобы опробовать permissions и roles
+использовал библиотеку Spatie, используя permissions и roles
